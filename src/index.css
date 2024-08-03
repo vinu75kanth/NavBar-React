@@ -1,0 +1,6 @@
+body{
+    background-color: hsla(187, 100%, 54%, 0.137);
+    margin: 0;
+    color:white;
+    transition: 0.5s;
+}
